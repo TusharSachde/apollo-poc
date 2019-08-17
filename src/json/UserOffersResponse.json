@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "5d515ac9b5c51e3cff14cd1f",
+        "Offers": [
+            {
+                "OfferId": "5d41b82b775dd52100b53ca1",
+                "OfferTitle": "20% Off on Adidas",
+                "OfferTag": "Shopping",
+                "Score": 5
+            },
+            {
+                "OfferId": "5d41b82b775dd52100b53ca0",
+                "OfferTitle": "20% Off on Food and Drinks",
+                "OfferTag": "Food",
+                "Score": 4
+            },
+            {
+                "OfferId": "5d41b790775dd52100b53c9e",
+                "OfferTitle": "10% Off on Auto Parts",
+                "OfferTag": "Car",
+                "Score": 3
+            },
+            {
+                "OfferId": "5d41b6ee775dd52100b53c9d",
+                "OfferTitle": "30% Off at CCD",
+                "OfferTag": "Food",
+                "Score": 2
+            },
+            {
+                "OfferId": "5d41b469bab43f2100629d55",
+                "OfferTitle": "20% Off at Starbucks",
+                "OfferTag": "Food",
+                "Score": 1
+            }
+        ]
+    }
+]

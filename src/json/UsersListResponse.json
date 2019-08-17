@@ -1,0 +1,83 @@
+[
+    {
+        "_id": "5d417b2cbab43f2100629d4d",
+        "Name": "Kunal Gupta",
+        "Age": 28,
+        "Gender": "Male",
+        "Preferences": [
+            "Food",
+            "Sports",
+            "Car"
+        ]
+    },
+    {
+        "_id": "5d41b1bdbab43f2100629d52",
+        "Name": "Michelle",
+        "Age": 36,
+        "Gender": "Female",
+        "Preferences": [
+            "Books",
+            "Gardening",
+            "Pets",
+            "Cinema"
+        ]
+    },
+    {
+        "_id": "5d41b244bab43f2100629d53",
+        "Name": "Roger",
+        "Age": 47,
+        "Gender": "Male",
+        "Preferences": [
+            "Sports",
+            "Cars",
+            "Bike",
+            "Shopping"
+        ]
+    },
+    {
+        "_id": "5d41b2e3bab43f2100629d54",
+        "Name": "Kristina",
+        "Age": 30,
+        "Gender": "Female",
+        "Preferences": [
+            "Cinema",
+            "Sports",
+            "Car",
+            "Shopping"
+        ]
+    },
+    {
+        "_id": "5d41b16dbab43f2100629d51",
+        "Name": "Donald",
+        "Age": 42,
+        "Gender": "Male",
+        "Preferences": [
+            "Cinema",
+            "Technology",
+            "Gardening"
+        ]
+    },
+    {
+        "_id": "5d41b00abab43f2100629d4f",
+        "Name": "Shrikant",
+        "Age": 28,
+        "Gender": "Male",
+        "Preferences": [
+            "Books",
+            "Sports",
+            "Pets"
+        ]
+    },
+    {
+        "_id": "5d41b094bab43f2100629d50",
+        "Name": "Sheena",
+        "Age": 27,
+        "Gender": "Female",
+        "Preferences": [
+            "Cinema",
+            "Food",
+            "Pets",
+            "Shopping"
+        ]
+    }
+]
